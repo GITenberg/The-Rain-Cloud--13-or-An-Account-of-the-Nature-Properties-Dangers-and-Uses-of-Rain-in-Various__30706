@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34766
     wikipedia: http://en.wikipedia.org/wiki/Charles_Tomlinson_(scientist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30706#The-Rain-Cloud--13-or-An-Account-of-the-Nature-Properties-Dangers-and-Uses-of-Rain-in-Various_
 gutenberg_issued: '2009-12-18'
 gutenberg_type: Text
 identifiers:
