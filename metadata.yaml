@@ -1,0 +1,30 @@
+_repo: The-Rain-Cloud--13-or-An-Account-of-the-Nature-Properties-Dangers-and-Uses-of-Rain-in-Various__30706
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tomlinson, Charles
+    birthdate: 1808
+    deathdate: 1897
+    gutenberg_agent_id: '34766'
+    url: http://www.gutenberg.org/2009/agents/34766
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Tomlinson_(scientist)
+description: ''
+gutenberg_issued: '2009-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rain and rainfall'
+- !lcsh 'Weather'
+- !lcc 'QC'
+- !lcsh 'Clouds'
+title: "The Rain Cloud\r\nor, An Account of the Nature, Properties, Dangers and Uses\
+  \ of Rain in Various Parts of the World"
+url: http://www.gutenberg.org/ebooks/30706
